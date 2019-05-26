@@ -4,7 +4,7 @@ CHAT EM TEMPO REAL
 CONFIGURANDO AMBIENTE
 * Para poder utilizar essa aplicação na sua maquina, siga os passos abaixo para configurar o ambiente.
 
-  1 - Crie um pasta na sua area de trabalho.
+  1 - Crie uma pasta na sua area de trabalho.
   
   2 - Abra o CMD (prompt de comando) e entre na pasta que criou.
   
